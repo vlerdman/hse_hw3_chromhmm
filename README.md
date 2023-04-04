@@ -55,3 +55,10 @@ A549 | H3k79me2 | H3k79me2.bam | Control.bam
 
 ![Image](/data/A549_15_RefSeqTES_neighborhood.png)
 
+## Genome Browser
+
+![Image](/data/1.png)
+
+## Бонус
+
+![Image](/data/2.png)
