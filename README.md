@@ -59,6 +59,24 @@ A549 | H3k79me2 | H3k79me2.bam | Control.bam
 
 ![Image](/data/1.png)
 
+Тип | Название | Куда попадает
+--- | --- | ---
+1 | Insulator | H3K36m3, H3K36m3
+2 | Insulator | H3K36m3, H3K79m2
+3 | Insulator |
+4 | Weak Transcribed | H3K27ac
+5 | Weak Transcribed | H3K36m3
+6 | Transcriptional transition |
+7 | Polycomb-repressed | H2AZ, H3K27ac
+8 | Active Promoter | H3K27ac
+9 | Inactive Promoter |
+10 | Inactive Promoter |
+11 | Weak enhancer |
+12 | Weak enhancer | H3K36m3
+13 | Weak enhancer | CTCF
+14 | Inactive promoter |
+15 | Weak Transcribed | CTCF
+
 ## Бонус
 
 ![Image](/data/2.png)
